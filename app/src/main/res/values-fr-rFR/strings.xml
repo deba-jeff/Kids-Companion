@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Compagnon d\\\'enfants</string>
+    <string name="alphabet_display">Alphabets</string>
+    <string name="roman_numeral_display">Chiffres romains</string>
+    <string name="number_display">Numéros</string>
+</resources>
