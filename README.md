@@ -13,7 +13,7 @@ A simple App that helps children learn the basics of Alphabets, Numbers and Roma
 
  |Home Screen (English)|Home Screen (French)|
  |:-:|:-:|
- |<img src="app/src/main/res/drawable/home_screen_english.png" width=338 height=600>|<img src="app/src/main/res/drawable/home_screen_french.png" width=338 height=600>|
+ |<img src="app/src/main/res/drawable/updated_home_screen_english.png" width=338 height=600>|<img src="app/src/main/res/drawable/updated_home_screen_french.png" width=338 height=600>|
  
  |Alphabets (English)|Alphabets (French)|
  |:-:|:-:|
